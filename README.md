@@ -30,7 +30,7 @@
 
 <p> - HTML do projeto</p>
 <img align="center" alt="html do projeto"
-  height="400em" src="https://github.com/DiogoMalfatti/animaisFantasticos/blob/main/img/imgDoHTMLAnimaisFantasticos.png" />
+  height="420em" src="https://github.com/DiogoMalfatti/animaisFantasticos/blob/main/img/imgDoHTMLAnimaisFantasticos.png" />
 
 <p> - CSS do projeto</p>
 <img align="center" alt="css do projeto"
@@ -38,11 +38,11 @@
 
 <p> - Javascript do projeto</p>
 <img align="center" alt="javascript do projeto"
-  height="400em" src="https://github.com/DiogoMalfatti/animaisFantasticos/blob/main/img/imgDoJSAnimaisFantasticos.png" />
+  height="420em" src="https://github.com/DiogoMalfatti/animaisFantasticos/blob/main/img/imgDoJSAnimaisFantasticos.png" />
 
 <p> - Terminal usando git</p>
 <img align="center" alt="terminal usando git"
-  height="400em" src="https://github.com/DiogoMalfatti/animaisFantasticos/blob/main/img/imgDoTerminalGit.png" />
+  height="420em" src="https://github.com/DiogoMalfatti/animaisFantasticos/blob/main/img/imgDoTerminalGit.png" />
 
 <p> - Projeto Animais Fantásticos</p>
 <img align="center" alt="imagem do projeto animais fantasticos"

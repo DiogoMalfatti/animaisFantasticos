@@ -20,6 +20,10 @@
   src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" />
 <img align="center" alt="github pages"
   src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" />
+<img align="center" alt="visual studio code"
+  src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img align="center" alt="badge do linux ubuntu"
+  src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 
 <img align="center" alt="imagem da descrição do curso de javascript da origamid"
   height="400em" src="https://github.com/DiogoMalfatti/animaisFantasticos/blob/main/img/cursoJSOrigamid.png" />

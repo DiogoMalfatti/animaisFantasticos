@@ -22,6 +22,26 @@
 <img align="center" alt="imagem da descrição do curso de javascript da origamid"
   height="400em" src="https://github.com/DiogoMalfatti/animaisFantasticos/blob/main/img/cursoJSOrigamid.png" />
 
+<p> - HTML do projeto</p>
+<img align="center" alt="html do projeto"
+  height="400em" src="https://github.com/DiogoMalfatti/animaisFantasticos/blob/main/img/imgDoHTMLAnimaisFantasticos.png" />
+
+<p> - CSS do projeto</p>
+<img align="center" alt="css do projeto"
+  height="418em" src="https://github.com/DiogoMalfatti/animaisFantasticos/blob/main/img/imgDoCSSAnimaisFantasticos.png" />
+
+<p> - Javascript do projeto</p>
+<img align="center" alt="javascript do projeto"
+  height="400em" src="https://github.com/DiogoMalfatti/animaisFantasticos/blob/main/img/imgDoJSAnimaisFantasticos.png" />
+
+<p> - Terminal usando git</p>
+<img align="center" alt="terminal usando git"
+  height="400em" src="https://github.com/DiogoMalfatti/animaisFantasticos/blob/main/img/imgDoTerminalGit.png" />
+
+<p> - Projeto Animais Fantásticos</p>
+<img align="center" alt="imagem do projeto animais fantasticos"
+  height="400em" src="https://github.com/DiogoMalfatti/animaisFantasticos/blob/main/img/animaisFantasticos.png" />
+
 <p> - Certificado de conclusão do Curso Javascript Completo ES6+ Origamid</p>
 <p>! curso em andamento !</p>
 <img align="center" alt="imagem do certificado de conclusão do curso Javascript Completo ES6+ Origamid do Diogo Malfatti"

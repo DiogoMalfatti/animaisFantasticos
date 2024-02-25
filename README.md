@@ -22,28 +22,15 @@
 <img align="center" alt="imagem da descrição do curso de javascript da origamid"
   height="400em" src="https://github.com/DiogoMalfatti/animaisFantasticos/blob/main/img/cursoJSOrigamid.png" />
 
-<p>Neste curso você irá aprender tudo que é necessário para dominar o JavaScript. O curso vai do básico ao avançado e ao final dele você terá uma compreensão total da linguagem, dos seus principais métodos e da sua sintaxe.
+<p>Feito com ❤️ por :</p>
 
-O foco é no aprendizado da linguagem, mas o principal local de aplicação será na web, através de manipulações do DOM e requisições via Fetch API.
+### Diogo Malfatti
 
-Esse não é um curso para quem deseja algo rápido, mas sim para quem deseja dominar a linguagem. O código ensinado utiliza todas as novidades das novas versões de JavaScript, como arrow functions, promises e mais.</p>
+<img align="center" alt="imagem de rosto do Diogo Malfatti"
+  height="115em" src="https://avatars.githubusercontent.com/u/52624848?s=400&u=d80e830d58ef6925f2897d660df9650f64533de5&v=4" />
 
-### Tópicos do curso :
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogomalfatti/)
 
-- Objetos
-- Classes
-- Orientação a Objeto
-- Strings
-- Arrays
-- Manipulação do DOM
-- Efeitos no DOM
-- Promises
-- Javascript Assícrono
-- Fetch
-- RegExp
-- Automação Front-End
-- Eslint
-- NPM
-- Git
-- Babel
-- Webpack
+<p>Este repositório foi criado para fins de estudo.</p>
+
+<br/>

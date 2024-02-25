@@ -19,7 +19,8 @@
 <img align="center" alt="webpack"
   src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" />
 
-
+<img align="center" alt="imagem da descrição do curso de javascript da origamid"
+  height="400em" src="https://github.com/DiogoMalfatti/animaisFantasticos/blob/main/img/cursoJSOrigamid.png" />
 
 <p> - Certificado de conclusão do Curso Javascript Completo ES6+ Origamid</p>
 <p>! curso em andamento !</p>

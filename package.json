@@ -1,0 +1,24 @@
+{
+  "name": "animaisfantasticos",
+  "version": "1.0.0",
+  "description": "<img align=\"center\" alt=\"html5\"\r   src=\"https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white\" />\r <img align=\"center\" alt=\"css3\"\r   src=\"https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white\" />\r <img align=\"center\" alt=\"js\"\r   src=\"https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black\" />\r <img align=\"center\" alt=\"eslint\"\r   src=\"https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white\" />\r <img align=\"center\" alt=\"node package modules\"\r   src=\"https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white\" />\r <img align=\"center\" alt=\"babel\"\r   src=\"https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black\" />\r <img align=\"center\" alt=\"webpack\"\r   src=\"https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black\" />\r <img align=\"center\" alt=\"github pages\"\r   src=\"https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white\" />\r <img align=\"center\" alt=\"visual studio code\"\r   src=\"https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white\" />\r <img align=\"center\" alt=\"badge do linux ubuntu\"\r   src=\"https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white\" />",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --mode production",
+    "dev": "webpack --mode development --watch"
+  },
+  "keywords": [],
+  "author": "Diogo Malfatti",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.26.0",
+    "@babel/plugin-transform-runtime": "^7.25.9",
+    "@babel/preset-env": "^7.26.0",
+    "@eslint/js": "^9.17.0",
+    "babel-loader": "^9.2.1",
+    "eslint": "^9.17.0",
+    "globals": "^15.14.0",
+    "webpack": "^5.97.1",
+    "webpack-cli": "^6.0.1"
+  }
+}

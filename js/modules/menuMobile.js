@@ -5,7 +5,7 @@ export default function initMenuMobile() {
   const menuList = document.querySelector('[data-menu="list"');
   const eventos = ["touchstart", "click"];
 
-  function openMenu(event) {
+  function openMenu() {
     menuButton.classList.add("active");
     menuList.classList.add("active");
 

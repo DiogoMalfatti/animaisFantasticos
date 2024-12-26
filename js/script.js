@@ -7,7 +7,7 @@ import fetchAnimais from "./modules/fetchAnimais.js";
 import fetchBitcoin from "./modules/fetchBitcoin.js";
 import AnimaScroll from "./modules/animaScroll.js";
 import DropdownMenu from "./modules/dropdownMenu.js";
-import initMenuMobile from "./modules/menuMobile.js";
+import MenuMobile from "./modules/menuMobile.js";
 import initFuncionamento from "./modules/funcionamento.js";
 
 const scrollSuave = new ScrollSuave('[data-menu="suave"] a[href^="#"]');
@@ -42,5 +42,7 @@ animaScroll.init();
 const dropdownMenu = new DropdownMenu("[data-dropdown");
 dropdownMenu.init();
 
-initMenuMobile();
+const menuMobile = new MenuMobile('[data-menu="button"', '[data-menu="list"');
+menuMobile.init();
+
 initFuncionamento();

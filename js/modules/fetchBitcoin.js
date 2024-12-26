@@ -1,16 +1,16 @@
-export default function initFetchBitcoin() {
-  async function fetchBitcoin(url) {
+export default function fetchBitcoin(url, target) {
+  async function getFetchBitcoin(url) {
     try {
       const bitcoin = await fetch(url);
       const bitcoinJson = await bitcoin.json();
-      const btcPreco = document.querySelector(".btc-preco");
+      const btcPreco = document.querySelector(target);
       btcPreco.innerHTML = (1000 / bitcoinJson.BRL.sell).toFixed(4);
     } catch (erro) {
       console.log(erro);
     }
   }
 
-  fetchBitcoin("https://blockchain.info/ticker");
+  getFetchBitcoin(url);
 }
 
 // fetch("https://blockchain.info/ticker")

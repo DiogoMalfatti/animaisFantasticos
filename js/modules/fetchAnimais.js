@@ -31,6 +31,5 @@ export default function fetchAnimais(url, target) {
       console.log(erro);
     }
   }
-
   return criarAnimais();
 }

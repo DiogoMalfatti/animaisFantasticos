@@ -12,7 +12,7 @@ export default class AnimaNumeros {
     const incremento = Math.floor(total / 100);
     let start = 0;
     const timer = setInterval(() => {
-      start = start + incremento;
+      start += incremento;
       numero.innerText = start;
       if (start > total) {
         numero.innerText = total;

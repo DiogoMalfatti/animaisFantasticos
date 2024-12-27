@@ -49,9 +49,8 @@
   height="400em" src="https://github.com/DiogoMalfatti/animaisFantasticos/blob/main/img/animaisFantasticos.png" />
 
 <p> - Certificado de conclusão do Curso Javascript Completo ES6+ Origamid</p>
-<p>! curso em andamento !</p>
 <img align="center" alt="imagem do certificado de conclusão do curso Javascript Completo ES6+ Origamid do Diogo Malfatti"
-  height="418em" src="" />
+  height="418em" src="https://github.com/DiogoMalfatti/animaisFantasticos/blob/main/img/DiogoMalfattiCertificadoJavascript.png" />
 
 <p>Feito com ❤️ por :</p>
 

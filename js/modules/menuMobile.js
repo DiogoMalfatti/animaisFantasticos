@@ -10,14 +10,13 @@ export default class MenuMobile {
     } else {
       this.events = events;
     }
-
     this.openMenu = this.openMenu.bind(this);
   }
 
-  openMenu() {
+  openMenu(event) {
+    event.preventDefault();
     this.menuButton.classList.add(this.activeClass);
     this.menuList.classList.add(this.activeClass);
-
     outsideClick(this.menuList, this.events, () => {
       this.menuButton.classList.remove(this.activeClass);
       this.menuList.classList.remove(this.activeClass);
